@@ -1,1 +1,1 @@
-![TurboUniverse Logo](assets/logo_large.png)
+![TurboUniverse Logo](/assets/logo_large.png)
